@@ -7,6 +7,7 @@ TagManager:
   - Package
   - Customer
   - SpeedBoost
+  - WorldCollision
   layers:
   - Default
   - TransparentFX
